@@ -1,6 +1,6 @@
 from scapy.all import *
 import sys
-
+#Scanner de Portas
 # Função que será chamada para cada pacote capturado
 def analisar_pacote(pacote):
     print("--- Novo Pacote ---")
