@@ -1,4 +1,4 @@
-# Escuta Sniffer
+#Escuta  Sniffer
 # Importa a biblioteca Scapy
 from scapy.all import *
 
